@@ -1,0 +1,3 @@
+Linear System Solvers
+1. LU-Decomposition (direct method)
+2. Jacobi Method (iterative method for strictly diagonally dominant matrices)
