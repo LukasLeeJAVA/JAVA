@@ -1,0 +1,2 @@
+Game of 24 Points
+The goal is to find methods to get 24 Points from given 4 integer numbers (usually from 1 to 10, sometimes extended to 13, repetition allowed),  with the four basic mathematical operator +, -, * and /.
